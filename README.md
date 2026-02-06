@@ -40,4 +40,15 @@ Manga Maniacs activity added
 Schedule: Tuesday at 5PM
 Max attendance: 25 people
 
+## Manga Maniacs Club
+
+Description: Dive into the exciting world of Japanese Manga!
+Explore legendary heroes, emotional adventures, colorful artwork,
+and creative anime-inspired storytelling.
+
+Schedule: Tuesday at 5PM  
+Max attendance: 25 people
+
+
+
 
